@@ -1,0 +1,6 @@
+#ifndef GAMENAMEPLACEHOLDER_UTIL_H
+#define GAMENAMEPLACEHOLDER_UTIL_H
+
+#define ARRAY_SIZE(x) (sizeof(x) / sizeof((x)[0]))
+
+#endif /* GAMENAMEPLACEHOLDER_UTIL_H */
